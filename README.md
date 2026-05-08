@@ -13,6 +13,6 @@ This workshop can either be run in a traditional workshop environment that is le
 - git
 
 
-## Get Readu
+## Get Ready
 
 Once you have installed the dependencies you are ready to start. Click [here](/workshop/01-introduction.md) to begin.
