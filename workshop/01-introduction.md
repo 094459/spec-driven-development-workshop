@@ -65,11 +65,13 @@ Spec driven development is still pretty new, and developers are still exploring 
 ### Strong candidates
 
 * Complex Features: When building features with multiple components, integrations, or user interactions where you have clear requirements
+* Resolving defects: Ensuring that defects are fixed using a structured approach
 * High-Stakes Projects: When the cost of failure or rework is significant
 * Team Collaboration: When multiple developers or stakeholders need to coordinate
 * Knowledge Transfer: When documentation and knowledge preservation are important
 * AI-Assisted Development: When working with AI tools that benefit from clear, structured input
 * Regulatory/compliance: Where you need strong lineage and audit trails between requirements and features (specs = audit trails)
+ 
 
 ### Less Suitable Scenarios
 
