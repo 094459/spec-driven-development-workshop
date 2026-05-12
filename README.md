@@ -13,6 +13,12 @@ This workshop can either be run in a traditional workshop environment that is le
 - git
 
 
+## Getting started with Kiro
+
+Kiro is built on Visual Studio Code's open source foundation. If you are familiar with using VSCode, you will be familiar with Kiro IDE. The [Kiro Reference](workshops/10-kiro-reference.md) provides a quick primer on the Kiro IDE and will be useful if you have not used Kiro before.
+
+> If you are a user of VSCode, you might find the [Kiro VSCode migration guide](https://kiro.dev/docs/guides/migrating-from-vscode/) useful.
+
 ## Get Ready
 
 Once you have installed the dependencies you are ready to start. Click [here](/workshop/01-introduction.md) to begin.
