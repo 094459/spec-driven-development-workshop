@@ -179,37 +179,3 @@ Spec driven development is designed to complement, not replace, existing develop
 * Agile Sprints: Use specs for larger user stories or epics
 * Feature Branches: Create specs before starting feature development
 * Vibe Coding: Use Vibe coding to experiment and generate ideas/prototypes, before creating specs from what you have learned
-
----
-
-## Getting started with Kiro
-
-In July, [Kiro](https://kiro.dev) was launched, an IDE that provided an opinionated and native approach for supporting a new workflow when using AI coding assistants - spec driven development. We are going to be using Kiro throughout this workshop. Kiro provides an opinionated UI that walks you through the specs driven development workflow.
-
-![getting started with kiro](/images/Pasted%20image%2020260507122153.png)
-
-Kiro simplifies working with spec driven development by integrating into its user interface how to create a spec, and then walking you through the workflow: Creating detailed requirements, selecting the right technical design, and then building the implementation plan by breaking down what is needed into a series of tasks.
-
-### Installation
-
-You can get started with Kiro by installing it [using this link](https://kiro.dev/docs/getting-started/installation/) It is available for Windows, Linux, and MacOS.
-### Authentication
-
-After installation, the first thing you will need is to authenticate your installation. This is required so that you can setup access to the foundation models that Kiro uses. Kiro supports a number of different ways to authenticate - for using social logins, using GitHub, or configuring it through your organisations identity provider.
-
-You **do NOT need** an AWS account to use Kiro.
-
-### Kiro View
-
-When you start the Kiro IDE, you will see the left hand navigator bar that contains a number of icons. One of these is the Kiro icon which will present the Kiro sidebar, presenting the specific Kiro AI features you will be working with:
-
-- Specs overview and management - this will list any specs in the current project workspace
-- Agent Hooks management - any automations you have created (we will not cover this in this workshop as this is outside the scope of spec driven development)
-- Agent Steering configuration - the is where you will configure context for your projects. These can be markdown files or Skills files that you might want to add
-- MCP (Model Context Protocol) servers - this is where you can configure your MCP servers via the mcp.json configuration file, configuring them at the global or project level
-
-### Billing
-
-Kiro offers four distinct service tiers designed to meet different development needs. These change frequently, so you should check the [official web page for details](https://kiro.dev/docs/billing/).
-
-When you first sign up, you will get 500 Kiro Credits. You might be wondering what a Kiro Credit is. This is the unit of consumption that Kiro uses to do work. As you start using its agentic AI capabilities, these consume credits. Kiro helps you optimise your use of credits by providing capabilities like "Auto", which uses the least expensive model for any given task it has been asked to do.
