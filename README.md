@@ -19,6 +19,8 @@ Kiro is built on Visual Studio Code's open source foundation. If you are familia
 
 > If you are a user of VSCode, you might find the [Kiro VSCode migration guide](https://kiro.dev/docs/guides/migrating-from-vscode/) useful.
 
+This workshop will consume approx 120-150 Kiro Credits when using Auto mode.
+
 ## Get Ready
 
 Once you have installed the dependencies you are ready to start. Click [here](/workshop/01-introduction.md) to begin.
