@@ -188,7 +188,7 @@ If you hand edit, then make sure to prompt in the chat interface to update the c
 
 It should provide you a summary of the key changes you have made.
 
-#### Chicken or Egg
+#### Design or Requirements - which one first?
 
 We have so far looked at the design.md and the requirements.md, but which one you start with depends on the spec workflow you have chosen.
 
